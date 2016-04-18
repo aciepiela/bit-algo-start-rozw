@@ -15,6 +15,6 @@ int main() {
     for (int i = 0; i < n; i++) {
         cin >> sweetness[i];
     }
-    cout << solve(sweetness, n, k) << endl;;
+    cout << solve(sweetness, k) << endl;;
     return 0;
 }
