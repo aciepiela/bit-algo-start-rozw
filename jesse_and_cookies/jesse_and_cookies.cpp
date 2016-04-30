@@ -1,6 +1,6 @@
 /*
  * Rozwiazanie wzorcowe z wykorzystaniem kolejki priorytetowej
- * Zlozonosc O(n)
+ * Zlozonosc O(nlog(n))
  * Autor: Aleksander Ciepiela
  * */
 
